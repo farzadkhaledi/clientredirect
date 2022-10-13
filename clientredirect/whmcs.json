@@ -1,0 +1,29 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-addons",
+    "name": "clientredirect",
+    "version": "1.0",
+    "license": "mit",
+    "category": "other",
+    "description": {
+        "name": "Client Redirect",
+        "tagline": "Client Redirect for WHMCS",
+        "long": "Client Redirect Module allows you to redirect clients after registration, login and logout to a special URL.",
+        "features": [
+            "Client Area: Client Redirect Module allows you to redirect clients after registration, login and logout to a special URL."
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "docs_url": "https:\/\/www.github.com\/farzadkhaledi\/clientredirect",
+        "learn_more": "https:\/\/www.github.com\/farzadkhaledi\/clientredirect"
+    },
+    "authors": [
+        {
+            "name": "Farzad Khaledi",
+            "homepage": "https:\/\/www.khaledi.website\/"
+        }
+    ]
+}
